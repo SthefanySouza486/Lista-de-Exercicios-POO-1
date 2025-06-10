@@ -1,4 +1,4 @@
-package Lista4;
+package Lista4.Exercicio4_1;
 
 public class Funcionario {
         private final String nome;
