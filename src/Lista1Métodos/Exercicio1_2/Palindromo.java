@@ -1,4 +1,4 @@
-package Lista1.Exercicio1_2;
+package Lista1Métodos.Exercicio1_2;
 
 public class Palindromo {
         public static boolean ehPalindromo(String texto) {

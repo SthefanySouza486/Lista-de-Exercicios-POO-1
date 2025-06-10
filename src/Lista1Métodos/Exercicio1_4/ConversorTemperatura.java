@@ -1,4 +1,4 @@
-package Lista1.Exercicio1_4;
+package Lista1Métodos.Exercicio1_4;
 
 public class ConversorTemperatura {
     public static double celsiusParaFahrenheit(double celsius) {

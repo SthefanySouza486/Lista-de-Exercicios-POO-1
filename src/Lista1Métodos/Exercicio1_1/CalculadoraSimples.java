@@ -1,4 +1,4 @@
-package Lista1.Exercicio1_1;
+package Lista1Métodos.Exercicio1_1;
 
 public class CalculadoraSimples {
 

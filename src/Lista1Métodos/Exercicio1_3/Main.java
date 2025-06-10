@@ -1,8 +1,8 @@
-package Lista1.Exercicio1_3;
+package Lista1Métodos.Exercicio1_3;
 
 import java.util.Scanner;
 
-import static Lista1.Exercicio1_3.Fatorial.fatorial;
+import static Lista1Métodos.Exercicio1_3.Fatorial.fatorial;
 
 public class Main {
     public static void main(String[] args) {

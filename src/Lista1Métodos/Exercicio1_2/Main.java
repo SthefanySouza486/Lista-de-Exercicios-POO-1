@@ -1,8 +1,8 @@
-package Lista1.Exercicio1_2;
+package Lista1Métodos.Exercicio1_2;
 
 import java.util.Scanner;
 
-import static Lista1.Exercicio1_2.Palindromo.ehPalindromo;
+import static Lista1Métodos.Exercicio1_2.Palindromo.ehPalindromo;
 
 public class Main {
     public static void main(String[] args) {

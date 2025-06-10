@@ -1,9 +1,9 @@
-package Lista1.Exercicio1_4;
+package Lista1Métodos.Exercicio1_4;
 
 import java.util.Scanner;
 
-import static Lista1.Exercicio1_4.ConversorTemperatura.celsiusParaFahrenheit;
-import static Lista1.Exercicio1_4.ConversorTemperatura.fahrenheitParaCelsius;
+import static Lista1Métodos.Exercicio1_4.ConversorTemperatura.celsiusParaFahrenheit;
+import static Lista1Métodos.Exercicio1_4.ConversorTemperatura.fahrenheitParaCelsius;
 
 public class Main {
     public static void main(String[] args) {
