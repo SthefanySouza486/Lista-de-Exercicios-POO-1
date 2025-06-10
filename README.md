@@ -1,7 +1,7 @@
 # Nome do Projeto
 
 ## 📌 Descrição
-Lista 1 de exercicios de POO - Trabalho Faculdade
+- Lista 1 de exercicios de POO - Trabalho Faculdade
 ---
 
 ## 🧪 Linguagem e Versão
