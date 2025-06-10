@@ -17,7 +17,6 @@ public class Main {
             long resultado = fatorial(numero);
             System.out.println("Fatorial de " + numero + " é: " + resultado);
         }
-
         entrada.close();
     }
 }
